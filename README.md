@@ -13,30 +13,29 @@ A play list creator bot for Ayana which can be configured for other music discor
 ## Commands
  #### We will use bot prefix as && for these commands.
 
-- [x] #### &&create [Playlistname]
-     Creates a playlist using the name given
-     ex.  ```&&create MJ ``` will create a playlist named MJ
-- [x] #### &&add [Playlistname] [songname]
-     Adds a song to the playlist .
-     ex. ```&&add MJ ready to run ``` will add the song ready to run to playlist
-- [x] #### &&purge [Playlistname]
-     Purges the entire playlist
-     ex. ```&&purge MJ``` will purge the MJ playlist
-- [x] #### &&dellist [Playlistname]
-     Delets a playlist
-     ex. ```&&dellist MJ``` will delete the playlist MJ
+#### &&create [Playlistname] <br/>
+     Creates a playlist using the name given <br/>
+     ex.  ```&&create MJ ``` will create a playlist named MJ <br/>
+#### &&add [Playlistname] [songname] <br/>
+     Adds a song to the playlist . <br/>
+     ex. ```&&add MJ ready to run ``` will add the song ready to run to playlist <br/>
+#### &&purge [Playlistname]  <br/>
+     Purges the entire playlist <br/>
+     ex. ```&&purge MJ``` will purge the MJ playlist <br/>
+#### &&dellist [Playlistname] <br/>
+     Delets a playlist <br/>
+     ex. ```&&dellist MJ``` will delete the playlist MJ <br/>
 
 ##  The difference between &&play and &&plays
    ###  &&play is for playing playlist having song names.
    ###  &&plays is for playing playlist having youtube links.
 
-  - [x] #### &&play [Playlistname]
-     Inputs all song in the playlist to Ayana's Music list
-     ex. ```&&play MJ``` will play all songs of MJ , then you can do a ```=music p``` to start .
-- [x] #### &&plays [Playlistname]
-     Inputs all song in the playlist to Ayana's Music list
-     ex. ```&&play MJ``` will play all songs of MJ , then you can do a ```=music p``` to start .
-     
+#### &&play [Playlistname] <br/>
+     Inputs all song in the playlist to Ayana's Music list <br/>
+     ex. ```&&play MJ``` will play all songs of MJ , then you can do a ```=music p``` to start . <br/>
+#### &&plays [Playlistname]  <br/>
+     Inputs all song in the playlist to Ayana's Music list <br/>
+     ex. ```&&plays MJ``` will play all songs of MJ , then you can do a ```=music p``` to start . <br/>
      
 # Thanks
  
